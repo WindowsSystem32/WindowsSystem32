@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=WindowsSystem32&theme=dracula&locale=kr&layout=compact)](https://github.com/stats-organization/github-stats-extended)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=WindowsSystem32&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=WindowsSystem32&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **WindowsSystem32/WindowsSystem32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
